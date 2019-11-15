@@ -1,1 +1,1 @@
-# CS344-Smallsh
+# CS344-Smallsh Spring 2018
